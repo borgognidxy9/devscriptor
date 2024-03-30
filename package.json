@@ -1,0 +1,33 @@
+{
+  "name": "devscriptor",
+  "version": "1.0.2",
+  "description": "devscriptor",
+  "type": "module",
+  "main": "devscriptor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/borgognidxy9/devscriptor"
+  },
+  "website": "https://github.com/borgognidxy9/devscriptor.git",
+  "keywords": [
+    "devscriptor"
+  ],
+  "author": "borgognidxy9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borgognidxy9/devscriptor/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/borgognidxy9/devscriptor#readme",
+  "dependencies": {
+    "devmaven": "1.0.2",
+    "scriptgenius": "1.0.2",
+    "codewhisperer": "1.0.2"
+  }
+}
